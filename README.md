@@ -2,7 +2,7 @@
 # Project Davinci
 
 Random password generator
-Live app:
+Live app: [https://projectdavinci.herokuapp.com/](https://projectdavinci.herokuapp.com/)
 
 ## Getting Started
 
