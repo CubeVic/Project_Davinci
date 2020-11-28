@@ -66,5 +66,6 @@ venv/
 ENV/
 
 # Code workspace
+.vscode/
 .code-workspace
 .vscode/
