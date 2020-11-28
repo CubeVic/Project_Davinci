@@ -1,3 +1,4 @@
+![Password Generator](/Password_Generator_02.png)
 # Project Davinci
 
 Random password generator
